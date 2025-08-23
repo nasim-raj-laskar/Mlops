@@ -72,12 +72,12 @@ This repository contains multiple Machine Learning Operations (MLOps) projects d
 ## Project Structure
 ```
 Mlops/
-├── House-Price-Prediction/     # Basic MLOps with classification
-│   ├── main.ipynb
+├── House-Price-Prediction/     #  MLOps with classification
+│   ├── housepriceprediction.ipynb
 │   ├── mlruns/
 │   ├── mlartifacts/
 │   └── README.md
-├── Wine-quality-Pred/          # Advanced MLOps with deep learning
+├── Wine-quality-Pred/          #  MLOps with deep learning
 │   ├── main.ipynb
 │   ├── mlruns/
 │   └── README.md
