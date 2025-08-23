@@ -1,0 +1,15 @@
+artifact_uri: file:///x:/nasim_xhqpjmy/Code/MLops/MLflow-3/project-2/mlruns/294601987961154508/8c9a51b2ca1b465092919847b99460ca/artifacts
+end_time: 1755941782704
+entry_point_name: ''
+experiment_id: '294601987961154508'
+lifecycle_stage: active
+run_id: 8c9a51b2ca1b465092919847b99460ca
+run_name: capricious-ram-46
+run_uuid: 8c9a51b2ca1b465092919847b99460ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755941776371
+status: 3
+tags: []
+user_id: nasim_xhqpjmy

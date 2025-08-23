@@ -1,0 +1,15 @@
+artifact_uri: file:///x:/nasim_xhqpjmy/Code/MLops/MLflow-3/project-2/mlruns/516478861638253130/f9b8fa6ca53348ea94c4d3f674b1be23/artifacts
+end_time: 1755941982029
+entry_point_name: ''
+experiment_id: '516478861638253130'
+lifecycle_stage: active
+run_id: f9b8fa6ca53348ea94c4d3f674b1be23
+run_name: selective-hare-624
+run_uuid: f9b8fa6ca53348ea94c4d3f674b1be23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755941980548
+status: 4
+tags: []
+user_id: nasim_xhqpjmy

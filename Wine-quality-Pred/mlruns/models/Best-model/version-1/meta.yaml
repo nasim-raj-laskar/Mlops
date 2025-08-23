@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1755942577494
+current_stage: None
+description: ''
+last_updated_timestamp: 1755942577494
+name: Best-model
+run_id: 0e09fe2dec7042a983dff430b5f9d913
+run_link: ''
+source: file:///x:/nasim_xhqpjmy/Code/MLops/MLflow-3/project-2/mlruns/663289339673427619/0e09fe2dec7042a983dff430b5f9d913/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///x:/nasim_xhqpjmy/Code/MLops/MLflow-3/project-2/mlruns/663289339673427619/0e09fe2dec7042a983dff430b5f9d913/artifacts/model
+user_id: null
+version: 1

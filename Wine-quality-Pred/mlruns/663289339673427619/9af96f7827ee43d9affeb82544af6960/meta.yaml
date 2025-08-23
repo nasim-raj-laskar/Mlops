@@ -1,0 +1,15 @@
+artifact_uri: file:///x:/nasim_xhqpjmy/Code/MLops/MLflow-3/project-2/mlruns/663289339673427619/9af96f7827ee43d9affeb82544af6960/artifacts
+end_time: 1755942180193
+entry_point_name: ''
+experiment_id: '663289339673427619'
+lifecycle_stage: active
+run_id: 9af96f7827ee43d9affeb82544af6960
+run_name: mercurial-frog-728
+run_uuid: 9af96f7827ee43d9affeb82544af6960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755942146631
+status: 3
+tags: []
+user_id: nasim_xhqpjmy

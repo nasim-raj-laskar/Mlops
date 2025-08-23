@@ -1,0 +1,15 @@
+artifact_uri: file:///x:/nasim_xhqpjmy/Code/MLops/MLflow-3/project-2/mlruns/663289339673427619/8b086d84cb0b4dbc986b9e9b2193757e/artifacts
+end_time: 1755942168353
+entry_point_name: ''
+experiment_id: '663289339673427619'
+lifecycle_stage: active
+run_id: 8b086d84cb0b4dbc986b9e9b2193757e
+run_name: able-pug-865
+run_uuid: 8b086d84cb0b4dbc986b9e9b2193757e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755942161714
+status: 3
+tags: []
+user_id: nasim_xhqpjmy

@@ -1,0 +1,15 @@
+artifact_uri: file:///x:/nasim_xhqpjmy/Code/MLops/MLflow-3/project-2/mlruns/343464760554333096/932e7521f92d4832ba54af7435a40c71/artifacts
+end_time: 1755941301128
+entry_point_name: ''
+experiment_id: '343464760554333096'
+lifecycle_stage: active
+run_id: 932e7521f92d4832ba54af7435a40c71
+run_name: enchanting-pig-184
+run_uuid: 932e7521f92d4832ba54af7435a40c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755941301046
+status: 4
+tags: []
+user_id: nasim_xhqpjmy

@@ -1,0 +1,15 @@
+artifact_uri: file:///x:/nasim_xhqpjmy/Code/MLops/MLflow-3/project-2/mlruns/294601987961154508/addc1d61db6440c3a1359bc92fdbd476/artifacts
+end_time: 1755941789940
+entry_point_name: ''
+experiment_id: '294601987961154508'
+lifecycle_stage: active
+run_id: addc1d61db6440c3a1359bc92fdbd476
+run_name: spiffy-perch-99
+run_uuid: addc1d61db6440c3a1359bc92fdbd476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755941782740
+status: 3
+tags: []
+user_id: nasim_xhqpjmy
