@@ -57,12 +57,12 @@ This repository contains multiple Machine Learning Operations (MLOps) projects d
 ## Project Structure
 ```
 Mlops/
-├── House-Price-Prediction/     # Basic MLOps with regression
+├── House-Price-Prediction/     # Basic MLOps with classification
 │   ├── main.ipynb
 │   ├── mlruns/
 │   ├── mlartifacts/
 │   └── README.md
-├── Wine-quality-Pred/          # Advanced MLOps with deep learning
+├── Wine-quality-Pred/          #  MLOps with deep learning
 │   ├── main.ipynb
 │   ├── mlruns/
 │   └── README.md
@@ -87,3 +87,15 @@ Mlops/
 - Data pipeline orchestration with Apache Airflow
 - Containerized deployment strategies
 - Comparing different MLOps approaches and tools
+
+## Contributing
+
+Feel free to contribute by:
+- Adding new MLOps projects
+- Improving existing implementations
+- Enhancing documentation
+- Sharing best practices and lessons learned
+
+---
+
+*This repository serves as a practical guide to MLOps implementation, showcasing both fundamental and advanced techniques for managing machine learning workflows in production environments.*
