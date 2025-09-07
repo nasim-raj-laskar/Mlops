@@ -1,3 +1,4 @@
+# MLOps and ML Libraries
 mlflow==2.16.2
 scikit-learn
 pandas
@@ -6,3 +7,10 @@ keras
 tensorflow
 hyperopt
 
+# Data Engineering and Workflow Orchestration
+apache-airflow
+apache-airflow-providers-http
+
+# Additional utilities
+requests
+jupyter

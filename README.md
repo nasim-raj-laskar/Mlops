@@ -18,6 +18,13 @@ This repository contains multiple Machine Learning Operations (MLOps) projects d
 - **Key Features**: Bayesian optimization, nested experiment tracking, automated model selection
 - **Complexity**: Advanced MLOps pipeline with automated hyperparameter tuning
 
+### 🚀 [NASA APOD Pipeline](./nasa_apod/)
+**Focus**: Data Engineering with Apache Airflow
+- **Pipeline**: NASA Astronomy Picture of the Day ETL
+- **Stack**: Apache Airflow, Docker, Python
+- **Key Features**: Automated data extraction, workflow orchestration, containerized deployment
+- **Complexity**: Production-ready data pipeline with scheduling and monitoring
+
 ## Common MLOps Practices Demonstrated
 
 ### 🔬 Experiment Tracking
@@ -43,36 +50,14 @@ This repository contains multiple Machine Learning Operations (MLOps) projects d
 - **ML Frameworks**: scikit-learn, TensorFlow/Keras
 - **MLOps Platform**: MLflow (tracking, registry, deployment)
 - **Optimization**: Hyperopt with TPE algorithm
+- **Data Engineering**: Apache Airflow, Docker
 - **Data Processing**: pandas, NumPy
 - **Visualization**: MLflow UI for experiment analysis
-
-## Getting Started
-
-1. **Clone the Repository**
-   ```bash
-   git clone <repository-url>
-   cd Mlops
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Start MLflow Tracking Server**
-   ```bash
-   mlflow server --host 127.0.0.1 --port 5000
-   ```
-
-4. **Explore Projects**
-   - Navigate to individual project folders
-   - Follow project-specific README instructions
-   - Run Jupyter notebooks to see MLOps in action
 
 ## Project Structure
 ```
 Mlops/
-├── House-Price-Prediction/     # Basic MLOps with classification
+├── House-Price-Prediction/     # Basic MLOps with regression
 │   ├── main.ipynb
 │   ├── mlruns/
 │   ├── mlartifacts/
@@ -81,16 +66,16 @@ Mlops/
 │   ├── main.ipynb
 │   ├── mlruns/
 │   └── README.md
+├── nasa_apod/                  # Data engineering with Airflow
+│   ├── dags/
+│   │   └── etl.py
+│   ├── docker-compose.yml
+│   ├── Dockerfile
+│   └── README.md
 ├── requirements.txt            # Project dependencies
 └── README.md                   # This file
+
 ```
-
-## Learning Path
-
-1. **Start with House Price Prediction** for basic MLOps concepts
-2. **Progress to Wine Quality Prediction** for advanced techniques
-3. **Compare approaches** to understand different MLOps strategies
-4. **Experiment with modifications** to deepen understanding
 
 ## Key Learning Outcomes
 
@@ -99,16 +84,6 @@ Mlops/
 - Managing model lifecycle from training to deployment
 - Automating hyperparameter optimization
 - Building reproducible ML pipelines
+- Data pipeline orchestration with Apache Airflow
+- Containerized deployment strategies
 - Comparing different MLOps approaches and tools
-
-## Contributing
-
-Feel free to contribute by:
-- Adding new MLOps projects
-- Improving existing implementations
-- Enhancing documentation
-- Sharing best practices and lessons learned
-
----
-
-*This repository serves as a practical guide to MLOps implementation, showcasing both fundamental and advanced techniques for managing machine learning workflows in production environments.*
